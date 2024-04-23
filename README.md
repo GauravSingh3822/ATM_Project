@@ -1,2 +1,2 @@
 # ATM_Project
-Check Balance,Withdraw,Deposi,
+Check Balance,Withdraw,Deposit,

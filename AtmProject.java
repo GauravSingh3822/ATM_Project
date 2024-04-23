@@ -1,7 +1,7 @@
 import java.util.*;
 class ATM{
     float Balance=5000;
-    int PIN=7846;
+    int PIN=1234;
 
     public void checkpin(){
         System.out.print("Enter you Pin :");
